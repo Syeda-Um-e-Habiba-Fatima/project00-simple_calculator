@@ -1,0 +1,21 @@
+{
+  "name": "hbb200_simple_calculator",
+  "version": "8.0.0",
+  "description": "A simple calculator with Typescript, Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syeda um-e-Habiba",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.11.30",
+    "inquirer": "^9.2.16",
+    "moment": "^2.30.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
